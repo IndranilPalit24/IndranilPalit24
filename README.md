@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IndranilPalit24
+- 👋 Hi, I’m @IndranilPalit
 - 👀 I’m interested in Data Analytics, Automation QA, AI and ML
 - 🌱 I’m currently learning Data Analytics(using Python), QA Automation(using Java) 
 
