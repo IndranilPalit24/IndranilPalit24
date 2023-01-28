@@ -1,6 +1,6 @@
 - Hi, I’m @IndranilPalit
 - I’m interested in Data Analytics, Automation QA, AI and ML
-- I’m currently learning Data Analytics(using Python, Numpy, Pandas,Matplotlib), QA Automation(using Java, Selenium, TestNG) 
+- I’m currently learning Data Analytics(using Python, Numpy, Pandas,Matplotlib) and QA Automation(using Java, Selenium, TestNG) 
 
 <!---
 IndranilPalit24/IndranilPalit24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
