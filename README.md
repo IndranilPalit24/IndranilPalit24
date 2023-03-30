@@ -1,5 +1,5 @@
 - Hi, I’m @IndranilPalit
-- I’m interested in Data Analytics, Automation QA,AI and ML and also Automation QA Engineer 
+- I’m interested in Data Analytics,Automation QA,AI and ML and also Automation QA Engineer 
 - I’m currently learning Data Analytics(using Python, Numpy, Pandas,Matplotlib, EDA) and QA Automation(using Java, Selenium, TestNG, Gherkin, BDD, Page Object Model,JDK Kanban) 
 
 <!---
