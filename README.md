@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Indranil Palit</h1>
-<h3 align="center">Passionate Automation QA Engineer | Breaking Code with Purpose</h3>
+<h3 align="center">Passionate Automation QA Engineer | Breaking Applications with Purpose</h3>
 
 - 🌱 I’m currently learning **Django**.
 
