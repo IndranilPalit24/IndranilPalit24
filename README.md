@@ -1,16 +1,41 @@
 <h1 align="center">Hi 👋, I'm Indranil Palit</h1>
 <h3 align="center">Passionate Automation QA Engineer | Breaking Applications with Purpose</h3>
 
-- 🌱 I’m currently transitioning into **ETL Testing**
+- 🌱 I’m currently transitioning into <b>ETL Testing</b>
 
-- 💬 Ask me about **Selenium | Java | Cucumber | TestNG | Maven | Azure DevOps | Jenkins**
+- 💬 Ask me about <b>Selenium | Java | Cucumber | TestNG | Maven | Azure DevOps | Jenkins</b>
 
-- 📫 How to reach me **indronilpalit2013@gmail.com**
+- 📫 How to reach me <b>indronilpalit2013@gmail.com</b>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/@indranilpalit8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@indranilpalit8" height="30" width="40" /></a>
+<a href="https://twitter.com/@indranilpalit8" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+<p align="left">
+<a href="https://azure.microsoft.com/en-in/" target="_blank" style="display:inline-block; margin-right:10px;">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" style="display:inline-block; margin-right:10px;">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://www.java.com" target="_blank" style="display:inline-block; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.jenkins.io" target="_blank" style="display:inline-block; margin-right:10px;">
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://postman.com" target="_blank" style="display:inline-block; margin-right:10px;">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" style="display:inline-block; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.selenium.dev" target="_blank" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
+</a>
+</p>
