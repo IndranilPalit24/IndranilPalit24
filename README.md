@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently transitioning into <b>ETL Testing</b>
 
-- 💬 Ask me about <b>Selenium | Java | Cucumber | TestNG | Maven | Azure DevOps | Jenkins</b>
+- 💬 Ask me about <b>Selenium | Java | Cucumber | TestNG | Maven | Azure DevOps | Jenkins | Playwright</b>
 
 - 📫 How to reach me <b>indronilpalit2013@gmail.com</b>
 
